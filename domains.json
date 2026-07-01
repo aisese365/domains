@@ -1,1 +1,15 @@
-{"domains":["aisese.ai","purrlyai.link", "synov.cfd", "dravx.bond", "bryzn.space"], "blockDomains":["purrly.ai"]}
+{
+  "domains": [
+    "aisese.ai",
+    "purrlyai.link",
+    "synov.cfd",
+    "dravx.bond",
+    "bryzn.space",
+    "kovryn.shop",
+    "lexvan.store",
+    "myrkon.online"
+  ],
+  "blockDomains": [
+    "purrly.ai"
+  ]
+}
