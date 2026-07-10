@@ -11,5 +11,13 @@
   ],
   "blockDomains": [
     "purrly.ai"
+  ],
+  "webDomains": [
+    "aisese.ai",
+    "purrlyai.link",
+    "quorvin.cyou",
+    "vellora.sbs",
+    "zynther.cfd",
+    "quackai.c"
   ]
 }
