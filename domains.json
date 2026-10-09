@@ -24,5 +24,8 @@
     "ixylon.casa",
     "jastor.beer",
     "jastor.site"
+  ],
+  "cnOnlyDomains": [
+    "www.aiwx01.xyz"
   ]
 }
