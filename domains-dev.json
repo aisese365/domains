@@ -1,0 +1,15 @@
+{
+  "domains": [
+    "dev.aisese.ai",
+    "dev.synov.cfd"
+  ],
+  "blockDomains": [
+  ],
+  "webDomains": [
+    "dev.aisese.ai",
+    "dev.synov.cfd"
+  ],
+  "cnOnlyDomains": [
+    "dev.aiwx01.xyz"
+  ]
+}
