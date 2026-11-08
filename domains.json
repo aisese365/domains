@@ -1,7 +1,6 @@
 {
   "domains": [
     "aisese.ai",
-    "purrlyai.link",
     "synov.cfd",
     "dravx.bond",
     "bryzn.space",
@@ -12,11 +11,11 @@
     "jastor.beauty"
   ],
   "blockDomains": [
-    "purrly.ai"
+    "purrly.ai",
+    "purrlyai.link"
   ],
   "webDomains": [
     "aisese.ai",
-    "purrlyai.link",
     "quorvin.cyou",
     "vellora.sbs",
     "zynther.cfd",
